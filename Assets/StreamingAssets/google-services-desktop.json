@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "107126065541-38dg5vggnuqu5vc4jdq4il0o34igprev.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPX-AW4kfGUHGXG6PKmvg4lpKFVPm6BkM"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:107126065541:ios:35aa15373d5f3c35581cec", 
+        "android_client_info": {
+          "package_name": "com.KimberlyReddickGames.ZombieBrainFreeze"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "zombie-brain-freeze.appspot.com", 
+    "project_id": "zombie-brain-freeze", 
+    "firebase_url": "https://zombie-brain-freeze.firebaseio.com", 
+    "project_number": "107126065541"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "com.ratelimited.metabuddy",
+  "version": "1.6.32",
+  "unity": "2018.1",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@rate-limited"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rate-limited/meta-buddy.git"
+  },
+
+  "displayName": "MetaBuddy",
+  "description": "Finds meta file problems in Unity projects.",
+
+  "keywords": [
+    "meta",
+    ".meta",
+    "meta file",
+    ".meta file",
+    "git",
+    "github"
+  ],
+
+  "author": {
+    "name": "Rate Limited",
+    "email": "support@ratelimited.io",
+    "url": "https://ratelimited.io/metabuddy"
+  }
+}
