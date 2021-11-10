@@ -40,6 +40,6 @@
     GitHub Profile: 
     [flirtara](https://github.com/flirtara) 
 
-    or reach out to me @ kim.reddick@icloud.com
+    or reach out to me @ kims.help.line@gmail.com
     
     
