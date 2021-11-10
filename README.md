@@ -15,17 +15,22 @@
   ## Table of Contents
 
   - [Installation](#installation)
-  - [Usage](#usage)
+  - [ScreenShots](#ScreenShots)
   - [Contributing](#contributing)
   - [Questions](#questions)
 
     ## Installation
     1)  Clone Repository
-    2)  Open in Unity
+    2)  Open Cloned Folder in Unity Hub
+    3)  Open Unity Project
+    4)  Double click or open Assets/Scenes/Game
     
-    ## Usage
+    ## ScreenShots
 
-    I did at one point have this deployed to Google Play and Apple Store for mobile devices.
+    ![ScreenShot1](/Assets/ScreenShots/IMG_1521.jpg?raw=true "Intro Game ScreenShot")
+    ![ScreenShot2](/Assets/ScreenShots/IMG_1522.jpg?raw=true "Game Play ScreenShot")
+    ![ScreenShot3](/Assets/ScreenShots/IMG_1523.jpg?raw=true "Game Win ScreenShot")
+    ![ScreenShot4](/Assets/ScreenShots/IMG_1524.jpg?raw=true "Game Stats ScreenShot")
     
     ## Contributing
     Kimberly Reddick
