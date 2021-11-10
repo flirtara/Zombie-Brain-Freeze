@@ -20,10 +20,10 @@
   - [Questions](#questions)
 
     ## Installation
-    1)  Clone Repository
-    2)  Open Cloned Folder in Unity Hub
-    3)  Open Unity Project
-    4)  Double click or open Assets/Scenes/Game
+    * Clone Repository
+    * Open Cloned Folder in Unity Hub
+    * Open Unity Project
+    * Double click or open Assets/Scenes/Game
     
     ## ScreenShots
 
